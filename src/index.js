@@ -32,6 +32,7 @@ import {
   // components
   ActivityIndicator,
   Button,
+  FlatList,
   Image,
   ListView,
   ProgressBar,
@@ -89,6 +90,7 @@ const ReactNative = {
   // components
   ActivityIndicator,
   Button,
+  FlatList,
   Image,
   ListView,
   ProgressBar,

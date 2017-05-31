@@ -27,6 +27,7 @@ export { default as Vibration } from './apis/Vibration';
 // components
 export { default as ActivityIndicator } from './components/ActivityIndicator';
 export { default as Button } from './components/Button';
+export { default as FlatList } from './components/FlatList';
 export { default as Image } from './components/Image';
 export { default as ListView } from './components/ListView';
 export { default as ProgressBar } from './components/ProgressBar';
